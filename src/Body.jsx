@@ -8,7 +8,7 @@ function Body() {
     <hero>
       <div className='body'>
         <div className='bodycon'>
-          <h1>Best Food For your Taste</h1>
+          <h1>Best Food For Your Taste</h1>
           <p>Discover delectable cuisine and unforgettable moments in our welcoming,
             culinary haven.</p>
           <div>
